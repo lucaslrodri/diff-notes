@@ -1,0 +1,69 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    @font-face {
+        font-family: 'noto-sans';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url(/fonts/NotoSans-Regular.ttf) format('ttf');
+    }
+    @font-face {
+        font-family: 'noto-sans';
+        font-style: normal;
+        font-weight: 500;
+        font-display: swap;
+        src: url(/fonts/NotoSans-Medium.ttf) format('ttf');
+    }
+    @font-face {
+        font-family: 'noto-sans';
+        font-style: normal;
+        font-weight: 600;
+        font-display: swap;
+        src: url(/fonts/NotoSans-SemiBold.ttf) format('ttf');
+    }
+    @font-face {
+        font-family: 'noto-sans';
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+        src: url(/fonts/NotoSans-Bold.ttf) format('ttf');
+    }
+    
+    @font-face {
+        font-family: 'noto-sans-mono';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url(/fonts/NotoSansMono-Regular.ttf) format('ttf');
+    }
+}
+
+@layer components {
+    .btn-toolbar {
+        @apply p-1 rounded-md hover:bg-gray-300 size-8 flex items-center justify-center text-gray-500 disabled:hover:bg-gray-50;
+    }
+
+    .label-toolbar {
+        @apply p-1 size-8 flex items-center justify-center text-gray-500;
+    }
+
+    .btn-group-statusbar {
+        @apply text-sm px-2;
+    }
+
+    .btn-statusbar {
+        @apply text-sm px-2 flex items-center justify-center text-gray-500 w-8 hover:bg-gray-150 disabled:hover:bg-gray-50;
+    }
+
+    .label-statusbar {
+        @apply flex items-center justify-center px-2 text-gray-700 text-sm cursor-default select-none;
+    }
+
+    .divider-statusbar{
+        @apply w-[1px] bg-gray-300 my-1.5 mx-0.5;
+    }
+}
+
