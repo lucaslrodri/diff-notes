@@ -1,14 +1,28 @@
 # Diff Notes
 
-Diff Notes is a lightweight and intuitive differencing and merging tool for Windows, built using Tauri and Rust. It enables you to compare two pieces of text side-by-side, highlighting the differences in a clear and visual format. Whether you're reviewing edits, comparing document versions, or analyzing changes made by AI tools like ChatGPT, Diff Notes provides a simple yet powerful solution.
+<p align="center">
+<a href="https://"
+    ><img
+      alt="Logo of Diff Notes"
+      src="https://raw.githubusercontent.com/lucaslrodri/diff-notes/refs/heads/main/assets/app-icon.png"
+      style="width: calc(100% - 2rem); max-width: 6rem; max-height: 6rem"
+  /></a>
+<p align="center">
+  <em>A truly minimal annotation tool with integrated differentiation and merge functionality</em>
+</p>
+</p>
 
-Each text is displayed in its own view, with dedicated controls for each view. This design gives you flexibility and precision when working with your content, making it ideal for tasks that require detailed text comparison.
 
 ![App Screenshot](https://raw.githubusercontent.com/lucaslrodri/diff-notes/refs/heads/main/assets/screenshot.png)
 
+> Diff Notes is a lightweight and intuitive annotation differencing and merging tool for Windows, built using Tauri and Rust. It enables you to compare two pieces of text side-by-side, highlighting the differences in a clear and visual format. Whether you're reviewing edits, comparing document versions, or analyzing changes made by AI tools like ChatGPT, Diff Notes provides a simple yet powerful solution.
+>
+> Each text is displayed in its own view, with dedicated controls for each view. This design gives you flexibility and precision when working with your content, making it ideal for tasks that require detailed text comparison.
+
 ## Getting Started
 
-1. Download and install Diff Notes for Windows [here]().
+1. Download and install Diff Notes for Windows [here](https://). 
+    - Linux version is in the works.
 2. Open the app and paste or type your text into the two views.
 3. Use the controls to manage and compare your text.
 
@@ -16,7 +30,6 @@ Each text is displayed in its own view, with dedicated controls for each view. T
 
 - **Side-by-Side Comparison**: Compare two pieces of text in a split view.
 - **Custom Titles**: Add custom titles for each text view for better organization.
-- **Clear Difference Highlighting**: Visualize differences in a clear and intuitive format.
 - **Auto-Save and Load**: Automatically save and reload text content when the app is closed and reopened.
 - **Flexible Layouts**: Switch between vertical and horizontal view layouts.
 - **Chunked Comparison**: Compare large texts more effectively by chunking:
