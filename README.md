@@ -1,8 +1,8 @@
 # Diff Notes
 
 <p align="center">
-<a href="https://"
-    ><img
+<a href="https://github.com/lucaslrodri/diff-notes/releases/latest" target="_blank" rel="noopener noreferrer"
+  ><img
       alt="Logo of Diff Notes"
       src="https://raw.githubusercontent.com/lucaslrodri/diff-notes/refs/heads/main/assets/app-icon.png"
       style="width: 6rem; max-width: calc(100%-2rem); max-height: 6rem"
@@ -10,8 +10,14 @@
 <p align="center">
   <em>A truly minimal annotation tool with integrated differentiation and merge functionality</em>
 </p>
+<p align="center">
+  <a href="https://github.com/lucaslrodri/diff-notes/releases/latest" target="_blank" rel="noopener noreferrer"
+    ><img
+        alt="GitHub release (latest by date)"
+        src="https://img.shields.io/github/v/release/lucaslrodri/diff-notes?style=flat-square&logo=github&label=Latest%20Release"
+        style="max-width: calc(100%-2rem)"
+    /></a>
 </p>
-
 
 ![App Screenshot](https://raw.githubusercontent.com/lucaslrodri/diff-notes/refs/heads/main/assets/screenshot.png)
 
@@ -21,7 +27,7 @@
 
 ## Getting Started
 
-1. Download and install Diff Notes for Windows [here](https://). 
+1. Download and install Diff Notes for Windows [here](https://github.com/lucaslrodri/diff-notes/releases/latest). 
     - Linux version is in the works.
 2. Open the app and paste or type your text into the two views.
 3. Use the controls to manage and compare your text.
