@@ -4,7 +4,7 @@ Diff Notes is a lightweight and intuitive differencing and merging tool for Wind
 
 Each text is displayed in its own view, with dedicated controls for each view. This design gives you flexibility and precision when working with your content, making it ideal for tasks that require detailed text comparison.
 
-![App Screenshot](https://raw.githubusercontent.com/yourusername/diff-notes/main/assets/screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/lucaslrodri/diff-notes/refs/heads/main/assets/screenshot.png)
 
 ## Getting Started
 
