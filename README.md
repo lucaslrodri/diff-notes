@@ -5,7 +5,7 @@
     ><img
       alt="Logo of Diff Notes"
       src="https://raw.githubusercontent.com/lucaslrodri/diff-notes/refs/heads/main/assets/app-icon.png"
-      style="width: calc(100% - 2rem); max-width: 6rem; max-height: 6rem"
+      style="width: 6rem; max-width: calc(100%-2rem); max-height: 6rem"
   /></a>
 <p align="center">
   <em>A truly minimal annotation tool with integrated differentiation and merge functionality</em>
